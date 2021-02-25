@@ -1,6 +1,6 @@
 # HTML-Code
 
-[!GitHub Logo]<https://github.com/shubhamrajput0369/HTML-Code-Assignments/blob/main/HTML%20GitHub%20Image.PNG>
+[!GitHub Logo] <https://github.com/shubhamrajput0369/HTML-Code-Assignments/blob/main/HTML%20GitHub%20Image.PNG>
 
 1. Basic tags in HTML
 2. Headings tag in HTML
