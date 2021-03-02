@@ -14,22 +14,22 @@
 
 1.6 Iframes tag in HTML
 
-1.7 Unordered List.html
+1.7 Unordered List tag in HTML
 
-1.8 Ordered List.html
+1.8 Ordered List tag in HTML
 
-1.9 Description List.html
+1.9 Description List tag in HTML
 
-2.0 Table.html
+2.0 Table tags in HTML
 
-2.1 Entities.html
+2.1 Entities concept in HTML
 
-2.2 Form 1.html
+2.2 Form 1 tags in HTML
 
-2.3 Form 2.html
+2.3 Form 2 tags in HTML
 
-2.4 Text Decoration.html
+2.4 Text Decoration tags in HTML
 
-2.5 Comment.html
+2.5 Comment tag in HTML
 
     Coming Soon.....
