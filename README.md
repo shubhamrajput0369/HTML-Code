@@ -32,4 +32,6 @@
 
 2.5 Comment tag in HTML
 
+2.6 HTML Emoji
+ 
     Coming Soon.....
